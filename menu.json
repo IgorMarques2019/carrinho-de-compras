@@ -1,0 +1,182 @@
+[
+  {
+    "produto": "Hamburguer",
+    "description": "Um hamburguer gostoso",
+    "preco": 33,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "X-TUDO",
+    "description": "Para matar a sua fome",
+    "preco": 25,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Coca-cola",
+    "description": "Refrigerante gelado",
+    "preco": 20,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Batata Frita",
+    "description": "Crocante por fora, macia por dentro",
+    "preco": 18,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "X-Bacon",
+    "description": "Com muito bacon e sabor",
+    "preco": 28,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Refrigerante Laranja",
+    "description": "Refrescante e saboroso",
+    "preco": 18,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Milkshake Chocolate",
+    "description": "Gelado e cremoso",
+    "preco": 22,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Milkshake Morango",
+    "description": "Delicioso sabor de morango",
+    "preco": 22,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Cheeseburguer",
+    "description": "Clássico com queijo derretido",
+    "preco": 26,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Hot Dog",
+    "description": "Salsicha com molho especial",
+    "preco": 16,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "X-Frango",
+    "description": "Frango empanado com queijo",
+    "preco": 27,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Água Mineral",
+    "description": "Sem gás",
+    "preco": 6,
+    "tempo": "5-10min"
+  },
+  {
+    "produto": "Suco Natural Laranja",
+    "description": "100% natural",
+    "preco": 14,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Suco Natural Maracujá",
+    "description": "Ideal para relaxar",
+    "preco": 14,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "X-Calabresa",
+    "description": "Com calabresa fatiada e queijo",
+    "preco": 29,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Salada Caesar",
+    "description": "Com frango grelhado",
+    "preco": 24,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Onion Rings",
+    "description": "Anéis de cebola empanados",
+    "preco": 16,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Nuggets",
+    "description": "Frango empanado crocante",
+    "preco": 19,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Pizza Brotinho",
+    "description": "Mussarela individual",
+    "preco": 23,
+    "tempo": "20-25min"
+  },
+  {
+    "produto": "Açaí na Tigela",
+    "description": "Com granola e banana",
+    "preco": 20,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "X-Salada",
+    "description": "Hambúrguer com alface e tomate",
+    "preco": 24,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Pastel de Queijo",
+    "description": "Massa crocante e recheio cremoso",
+    "preco": 9,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Pastel de Carne",
+    "description": "Recheado com carne moída temperada",
+    "preco": 10,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Cerveja Long Neck",
+    "description": "Bem gelada",
+    "preco": 12,
+    "tempo": "5-10min"
+  },
+  {
+    "produto": "Espetinho de Carne",
+    "description": "Com farofa e vinagrete",
+    "preco": 15,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Cachorro Quente Duplo",
+    "description": "Dois salsichões e muita batata palha",
+    "preco": 20,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Bauru",
+    "description": "Tradicional sanduíche com presunto e queijo",
+    "preco": 17,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Wrap de Frango",
+    "description": "Leve e saudável",
+    "preco": 21,
+    "tempo": "15-20min"
+  },
+  {
+    "produto": "Brownie",
+    "description": "Com pedaços de chocolate",
+    "preco": 13,
+    "tempo": "10-15min"
+  },
+  {
+    "produto": "Sorvete de Creme",
+    "description": "2 bolas com cobertura",
+    "preco": 11,
+    "tempo": "5-10min"
+  }
+]
